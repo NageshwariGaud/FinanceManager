@@ -58,3 +58,17 @@ Dependencies
   - backup_restore: Manages database backup and restoration.
 
 Happy budgeting!
+
+Output
+
+![Screenshot (515)](https://github.com/user-attachments/assets/f8a639c6-a30e-459e-982e-995114526214)
+
+![Screenshot (516)](https://github.com/user-attachments/assets/953443d8-ad93-4364-8bf0-f61b51493565)
+
+![Screenshot (517)](https://github.com/user-attachments/assets/195fd97e-64ef-4381-a01b-d3cf2fdb39c4)
+
+![Screenshot (518)](https://github.com/user-attachments/assets/562ebad9-7cb5-45dd-8741-0bd6e33f58a5)
+
+![Screenshot (519)](https://github.com/user-attachments/assets/002dbb26-4b9b-4474-84f2-313351895e98)
+
+![Screenshot (520)](https://github.com/user-attachments/assets/e623511e-ad7d-4085-8074-25428e45dd9c)
